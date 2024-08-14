@@ -2,7 +2,9 @@
 
 ## My name is MarsiantorThe and this is pod racing. When you pod to race you don't race to pod the racial poders. 
 
-## I am currently a student in high school that just wanted to git out there and see the world.
+## I am currently a student in high school that just wanted to git out there and see the world. 
+
+## In this class, I am a mucho big fan of projects that are just slay bro, homework is cringe man.
 <!--
 **TheMarsianator/TheMarsianator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
